@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="676e5aff-26c6-41fc-be12-ad41bffd54ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/Estruturas_Repetição_Arrays_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/exercicios_loops_arrays/exercicios_loops_arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/exercicios_loops_arrays/src/exercicios/arrays/Ex1_OrdemInversa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/exercicios_loops_arrays/src/exercicios/arrays/Ex2_Consoantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/exercicios_loops_arrays/src/exercicios/arrays/Ex3_NumerosAleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/exercicios_loops_arrays/src/exercicios/arrays/Ex4_ArrayMultidimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/exercicios_loops_arrays/src/exercicios/loops/Ex1_NomeEIdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/exercicios_loops_arrays/src/exercicios/loops/Ex2_Nota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/exercicios_loops_arrays/src/exercicios/loops/Ex3_MaiorEMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/exercicios_loops_arrays/src/exercicios/loops/Ex4_ParEImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/exercicios_loops_arrays/src/exercicios/loops/Ex5_Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estruturas_Repetição_Arrays_Java/exercicios_loops_arrays/src/exercicios/loops/Ex6_Fatorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/exercicios_loops_arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/out/production/exercicios_loops_arrays/exercicios/arrays/Ex1_OrdemInversa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/out/production/exercicios_loops_arrays/exercicios/arrays/Ex2_Consoantes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/out/production/exercicios_loops_arrays/exercicios/arrays/Ex3_NumerosAleatorios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/out/production/exercicios_loops_arrays/exercicios/arrays/Ex4_ArrayMultidimensional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/out/production/exercicios_loops_arrays/exercicios/arrays/teste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/out/production/exercicios_loops_arrays/exercicios/loops/Ex1_NomeEIdade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/out/production/exercicios_loops_arrays/exercicios/loops/Ex2_Nota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/out/production/exercicios_loops_arrays/exercicios/loops/Ex3_MaiorEMedia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/out/production/exercicios_loops_arrays/exercicios/loops/Ex4_ParEImpar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/out/production/exercicios_loops_arrays/exercicios/loops/Ex5_Tabuada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/out/production/exercicios_loops_arrays/exercicios/loops/Ex6_Fatorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/src/exercicios/arrays/Ex1_OrdemInversa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/src/exercicios/arrays/Ex2_Consoantes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/src/exercicios/arrays/Ex3_NumerosAleatorios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/src/exercicios/arrays/Ex4_ArrayMultidimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/src/exercicios/loops/Ex1_NomeEIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/src/exercicios/loops/Ex2_Nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/src/exercicios/loops/Ex3_MaiorEMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/src/exercicios/loops/Ex4_ParEImpar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/src/exercicios/loops/Ex5_Tabuada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios_loops_arrays/src/exercicios/loops/Ex6_Fatorial.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25CYTp2EYBHZldqGGtKcMQwhjPj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="676e5aff-26c6-41fc-be12-ad41bffd54ff" name="Changes" comment="" />
+      <created>1645032552370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645032552370</updated>
+    </task>
+    <servers />
+  </component>
+</project>
