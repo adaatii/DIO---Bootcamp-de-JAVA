@@ -81,10 +81,23 @@ public class ExemploList {
         }
         System.out.println(notas);
 
-        System.out.println("Apague toda a lista.");
+        /*System.out.println("Apague toda a lista.");
         notas.clear();
-        System.out.println(notas);
+        System.out.println(notas);*/
 
         System.out.println("Confira se a lista esta vazia: " + notas.isEmpty());
+
+        List<Double> notas2 = new LinkedList<>();
+
+        notas2 = notas;
+        System.out.println("Crie uma lista chamada notas2: " + notas2.toString());
+
+        System.out.println("Mostre a primeira nota da nova lista sem removê-lo: " + notas2.get(0));
+
+        System.out.println("Mostre a primeira nota da nova lista removendo-o: " + notas2.get(0));
+        notas2.remove(0);
+        System.out.println("depois de removido: " + notas.get(0));
+
+
     }
 }
