@@ -1,4 +1,4 @@
-package Map.exercicioProposto03;
+package Map;
 
 import java.util.Objects;
 
